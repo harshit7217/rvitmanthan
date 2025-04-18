@@ -1,0 +1,16 @@
+.contact-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-tagline h2 {
+    padding: 10%;
+    margin: 10%;
+}
+
+td, th {
+    width: 200px;
+    text-align: center;
+}
+
